@@ -34,8 +34,18 @@ h1 {
   font-weight: bold;
 }
 
-img {
+h2 {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.image {
+  min-height: 15em;
+  height: 50vh;
   width: 100%;
+
+  display: block;
+  background-size: cover;
 }
 
 .container > div {
